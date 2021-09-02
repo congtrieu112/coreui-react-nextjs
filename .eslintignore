@@ -1,0 +1,5 @@
+test/coverage/
+es/
+lib/
+umd/
+*.test.js
